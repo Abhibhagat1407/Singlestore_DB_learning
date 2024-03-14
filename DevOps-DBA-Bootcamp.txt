@@ -1,0 +1,19 @@
+TCL_admin_day3
+
+TOPICS:
+- Sharding(sharding key)
+
+- securing singlestore (on premises)
+  Encryption at Rest and in Motion
+  * Topics:
+      Encryption.
+      User authentication and admin.
+        - Configuring User Accounts.
+        - Authenticating user accounts.
+        - RBAC  	 
+      rolebase access contol.
+      Row level security.
+     
+ 
+
+
